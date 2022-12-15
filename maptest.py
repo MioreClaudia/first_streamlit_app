@@ -1,3 +1,4 @@
+from streamlit_folium import st_folium
 import folium
 
 # 地図生成
